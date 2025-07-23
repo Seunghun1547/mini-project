@@ -36,5 +36,5 @@ jobs: # 실행할 작업을 정의
           git config --global user.email "github-actions@github.com"
           git add cook_recipe.csv
           git add cook_ingredient.csv
-          git commit -m "Update weather data (auto)"
+          git commit -m "csv create"
           git push
